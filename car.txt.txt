@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+main()
+{
+cout << "                 ____________________      
+cout << "                /         |          \\            
+cout << "       ________/__________|___________\\____
+cout << "      /                o    |      o        |        
+cout << "     /                                      |       
+cout << "     |____ 
+cout << "
+cout << "
